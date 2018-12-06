@@ -1,0 +1,9 @@
+package asteroids.game;
+
+public class EnhancedController extends Controller
+{
+    public EnhancedController ()
+    {
+        
+    }
+}
